@@ -1,0 +1,17 @@
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/ServiceComp.Company.Domain.deps.json
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/ServiceComp.Company.Domain.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/ServiceComp.Company.Domain.pdb
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/Resources.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/ServiceComp.Company.Exceptions.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/Resources.pdb
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/ServiceComp.Company.Exceptions.pdb
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/pt-br/Resources.resources.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/bin/Debug/netstandard2.1/en/Resources.resources.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.csproj.AssemblyReference.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.AssemblyInfoInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.AssemblyInfo.cs
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.csproj.CoreCompileInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.csproj.CopyComplete
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/Debug/netstandard2.1/ServiceComp.Company.Domain.pdb

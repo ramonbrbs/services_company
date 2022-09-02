@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ServiceComp.Company.Domain/1.0.0": {
+        "dependencies": {
+          "Resources": "1.0.0",
+          "ServiceComp.Company.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "ServiceComp.Company.Domain.dll": {}
+        }
+      },
+      "Resources/1.0.0": {
+        "runtime": {
+          "Resources.dll": {}
+        },
+        "resources": {
+          "pt-br/Resources.resources.dll": {
+            "locale": "pt-br"
+          },
+          "en/Resources.resources.dll": {
+            "locale": "en"
+          }
+        }
+      },
+      "ServiceComp.Company.Exceptions/1.0.0": {
+        "runtime": {
+          "ServiceComp.Company.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceComp.Company.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceComp.Company.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

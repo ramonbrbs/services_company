@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{90152C10-54BB-4483-93C4-50F9929E74F1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServiceComp.Company.WebApi PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.ItemProperties.FunctionTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

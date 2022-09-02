@@ -1,0 +1,10 @@
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/bin/Debug/netstandard2.1/ServiceComp.Company.Exceptions.deps.json
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/bin/Debug/netstandard2.1/ServiceComp.Company.Exceptions.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/bin/Debug/netstandard2.1/ServiceComp.Company.Exceptions.pdb
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.csproj.AssemblyReference.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.AssemblyInfoInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.AssemblyInfo.cs
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.csproj.CoreCompileInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/obj/Debug/netstandard2.1/ServiceComp.Company.Exceptions.pdb

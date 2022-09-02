@@ -1,0 +1,10 @@
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/bin/Debug/netstandard2.1/ServiceComp.Company.Events.deps.json
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/bin/Debug/netstandard2.1/ServiceComp.Company.Events.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/bin/Debug/netstandard2.1/ServiceComp.Company.Events.pdb
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.csproj.AssemblyReference.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.AssemblyInfoInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.AssemblyInfo.cs
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.csproj.CoreCompileInputs.cache
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.dll
+/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/obj/Debug/netstandard2.1/ServiceComp.Company.Events.pdb
