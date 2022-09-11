@@ -43,43 +43,43 @@
     ]
   },
   "packageFolders": {
-    "/Users/ramon/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ramon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/ServiceComp.Company.Domain.csproj",
+      "projectUniqueName": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Domain\\ServiceComp.Company.Domain.csproj",
       "projectName": "ServiceComp.Company.Domain",
-      "projectPath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/ServiceComp.Company.Domain.csproj",
-      "packagesPath": "/Users/ramon/.nuget/packages/",
-      "outputPath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/obj/",
+      "projectPath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Domain\\ServiceComp.Company.Domain.csproj",
+      "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/ramon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
-        "/Users/ramon/Documents/Code/Antecipa/nuget": {},
-        "/usr/local/share/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/Antecipa/index.json": {},
-        "https://nuget.pkg.github.com/ramonbrbs/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/Resources/Resources.csproj": {
-              "projectPath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/Resources/Resources.csproj"
+            "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\Resources\\Resources.csproj": {
+              "projectPath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\Resources\\Resources.csproj"
             },
-            "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/ServiceComp.Company.Exceptions.csproj": {
-              "projectPath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Exceptions/ServiceComp.Company.Exceptions.csproj"
+            "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Exceptions\\ServiceComp.Company.Exceptions.csproj": {
+              "projectPath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Exceptions\\ServiceComp.Company.Exceptions.csproj"
             }
           }
         }
@@ -109,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

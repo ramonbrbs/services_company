@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zoek7TDZnuuOhTSXzhyj7PTKLET8ZlQSqobJe/38xA5/QQ16vjXtFKtZFUBYnvje2JoGGX4BN2GRh3jCnjk00w==",
+  "dgSpecHash": "u4pZFLI+TmsYjFKO41pIeTOV4uwWGbhSdubKRMH6lW3oa8/0TewmQRxq8PuT37vF7GDtTW1qxIv9HfK84w1xwQ==",
   "success": true,
-  "projectFilePath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Events/ServiceComp.Company.Events.csproj",
+  "projectFilePath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Events\\ServiceComp.Company.Events.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

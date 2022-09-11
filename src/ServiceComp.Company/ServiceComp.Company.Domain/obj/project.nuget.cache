@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dP0jg66ITVCjIU/2i902AJ0t2uRlExdzicy4FmtpScyBZSgIjszT2lTCVE3x0mowfoDo6LdPBkz0YkbaMRdv8Q==",
+  "dgSpecHash": "YUpDD2ErjAOrTtyDM5/4fxlWM8eAgQ2wEqmJ1wtiFWyDBhDQS7bvT4d9AZ/kecm6KRfNQtDzuXICoRyUbmfb1w==",
   "success": true,
-  "projectFilePath": "/Users/ramon/Documents/Code/rbarbosa/ServiceComp/Company/src/ServiceComp.Company/ServiceComp.Company.Domain/ServiceComp.Company.Domain.csproj",
+  "projectFilePath": "C:\\repos\\rbarbosa\\services\\services_company\\src\\ServiceComp.Company\\ServiceComp.Company.Domain\\ServiceComp.Company.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
